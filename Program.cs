@@ -13,6 +13,12 @@ using EmployeeDetails;
             // s.EmployeeDetails();
             b.ManagerDetails();
             Console.WriteLine("ajay");
+
+                        Console.WriteLine("ajay");
+
+
+            Console.WriteLine("ajay");
+
         }
     }
 // }
